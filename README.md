@@ -1,11 +1,10 @@
-# classbook
+# Classbook
 Facebook clone made using python and Django. <br>
 Hello there, if you want to clone my project here are the steps to clone it on your local machine.<br>
-Sample images of the project are available in sample_images folder.
 
 ## Clone the project
 Use this command to clone the project.<br><br>
-`git clone https://github.com/tharinimala22/classbook.git`
+`git clone https://github.com/Tharinimala22/Classbook.git`
 
 ## Setting up virtual environment
 To setup virtual enviroment you need to follow steps based on your OS. Also make sure you are in the project directory.
